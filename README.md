@@ -1,7 +1,7 @@
 # Dinobots
 Dinobots - Learning game programming, game analytics, generative Ai, game AI, prompt engineering and reinforcement learning with dinosaurs and robots.
 
-Open-Source "Dinobots" Game AI and Prompt Engineering Project
+Open-Source "Dinobots" Game AI and Prompt Engineering Project YouTube [https://youtu.be/3abk1K1Y7EY](https://youtu.be/3abk1K1Y7EY)
 
 We started an open-source learning game project called "Dinobots", which will be a platform to teach game programming, game analytics, generative AI, game AI, prompt engineering, and reinforcement learning with dinosaurs and robots.
 
